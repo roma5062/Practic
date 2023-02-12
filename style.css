@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.hero {
+    background-color: pink;
+    min-height: 100px;
+}
+
+.wrapper {
+    min-height: 100%;
+}
+
+.img {
+    width: 70px;
+    height: 70px;
+}
+
+.text2 {
+    display: flex;
+    color: rgba(255, 255, 255, 0.452);
+}
+
+.link:first-child {
+    color: palevioletred;
+
+}
+
+.btn {
+    background-color: rgb(248, 0, 174);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 13px;
+    padding-bottom: 19px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
