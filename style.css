@@ -8,7 +8,7 @@ body {
 }
 
 .hero {
-    background-color: pink;
+    background-color: rgb(243, 165, 178);
     min-height: 100px;
 }
 
@@ -42,4 +42,10 @@ body {
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
+}
+
+
+.text5 {
+    color: palevioletred;
+    size: 30px;
 }
